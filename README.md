@@ -1,1 +1,1 @@
-#Materiale da scaricare per lo sviluppo del sito d'esempio «I periodi artistici di Pablo Picasso»
+# Materiale da scaricare per lo sviluppo del sito d'esempio «I periodi artistici di Pablo Picasso»
